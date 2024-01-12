@@ -1,4 +1,4 @@
-In this project, we will use web scraping techniques to collect data from an online furniture stores: Lluesma Muebles (https://www.muebleslluesma.com/). These stores sell products from DOOS Design and other competitors. We will use the data to analyze how DOOS Design's products and prices compare to those of its rivals. We will also create visualizations to display the results of the analysis and to provide insights for DOOS DESIGN to improve its market position and increase its sales.
+In this project, we will use web scraping techniques to collect data from an online furniture stores: Lluesma Muebles (https://www.muebleslluesma.com/). These stores sell products from DOOS Design and other competitors. We will use the data to analyze how DOOS Design's products and prices compare to those of its rivals. We will also create visualizations to display the results of the analysis and to provide insights for DOOS Design to improve its market position and increase its sales.
 
 Steps to follow:
 
