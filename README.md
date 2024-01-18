@@ -2,7 +2,7 @@ In this project, we will use web scraping techniques to collect data from an onl
 
 Steps to follow:
 
-- Scrape data from the web, using Python's Beautifulsoup library.
-- Manipulate the scraped data, using Python to create tables with relevant columns and values.
-- Visualize the data and discover patterns, using Power BI to create interactive charts and dashboards.
-- Create a report with clear and concise language to present the results and recommendations.
+- Data was scraped from the website, using Python's Beautifulsoup library.
+- The scraped data was manipulated and cleaned using Python to create tables with relevant columns and values.
+- Power BI was used to create interactive charts and dashboards to discover useful patterns.
+- A report was created with clear and concise language to present the results and recommendations.
