@@ -6,3 +6,5 @@ Steps to follow:
 - The scraped data was manipulated and cleaned using Python to create tables with relevant columns and values.
 - Power BI was used to create interactive charts and dashboards to discover useful patterns.
 - A report was created with clear and concise language to present the results and recommendations.
+
+For more extensive and in-depth analysis please refer to the report PDF.
