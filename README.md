@@ -9,4 +9,6 @@ Steps to follow:
 - Power BI was used to create interactive charts and dashboards to discover useful patterns.
 - A report was created with clear and concise language to present the results and recommendations.
 
-For more extensive and in-depth analysis please refer to the report PDF.
+⚠️ For more extensive and in-depth analysis please refer to the report PDF.
+
+🛠️ Python (Beautifulsoup / Pandas) and Power BI were used in this project.
