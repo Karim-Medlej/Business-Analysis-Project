@@ -1,5 +1,11 @@
 # Data Analysis & Web Scraping 
 
+<h1 align="center">
+<img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/gb.jpg" width="5%" height="5%">
+</h1>
+
+## Doos Design price comparison
+
 In this project, we will use web scraping techniques to collect data from an online furniture stores: Lluesma Muebles (https://www.muebleslluesma.com/). This web store sells Doos Design's and other competitors products. We will use the data to analyze how DOOS Design's products and prices compare to those of its rivals. We will also create visualizations to display the results of the analysis and to provide insights for DOOS Design to improve its market position and increase its sales.
 
 Implemented measures: 
@@ -12,3 +18,22 @@ Implemented measures:
 ⚠️ For more extensive and in-depth analysis please refer to the report PDF.
 
 🛠️ Python (Beautifulsoup / Pandas) and Power BI were used in this project.
+
+<h1 align="center">
+<img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
+</h1>
+
+## Doos Design comparación de precios
+
+En este proyecto, utilizaremos técnicas de raspado web para recopilar datos de una tienda de muebles en línea: Lluesma Muebles (https://www.muebleslluesma.com/). Esta tienda web vende productos de Doos Design y otros competidores. Usaremos los datos para analizar cómo los productos y precios de DOOS Design se comparan con los de sus rivales. También crearemos visualizaciones para mostrar los resultados del análisis y proporcionar información para que DOOS Design mejore su posición en el mercado y aumente sus ventas.
+
+Medidas aplicadas:
+
+- Los datos fueron extraídos del sitio web, utilizando la biblioteca Beautifulsoup de Python.
+- Los datos raspados fueron manipulados y limpiados usando Python para crear tablas con columnas y valores relevantes.
+- Power BI se utilizó para crear gráficos interactivos y paneles para descubrir patrones útiles.
+- Se elaboró un informe con un lenguaje claro y conciso para presentar los resultados y las recomendaciones.
+
+⚠️ Para un análisis más extenso y profundo, consulte el informe PDF en mi repositorio.
+
+🛠️ Python (Beautifulsoup / Pandas) y Power BI se utilizaron en este proyecto.
