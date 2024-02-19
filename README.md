@@ -15,6 +15,8 @@ Implemented measures:
 - Power BI was used to create interactive charts and dashboards to discover useful patterns.
 - A report was created with clear and concise language to present the results and recommendations.
 
+Conclusion: A price analysis of the main competitor was conducted and it revealed that they charged 13.07% more for similar products. This indicates that the models are not overpriced, but rather reflect the quality and value of the products.
+
 ⚠️ For more extensive and in-depth analysis please refer to the report PDF.
 
 🛠️ Python (Beautifulsoup / Pandas) and Power BI were used in this project.
@@ -33,6 +35,8 @@ Medidas aplicadas:
 - Los datos raspados fueron manipulados y limpiados usando Python para crear tablas con columnas y valores relevantes.
 - Power BI se utilizó para crear gráficos interactivos y paneles para descubrir patrones útiles.
 - Se elaboró un informe con un lenguaje claro y conciso para presentar los resultados y las recomendaciones.
+
+Conclusión: Se realizó un análisis de precios del principal competidor y se reveló que cobraban un 13,07% más por productos similares. Esto indica que los modelos no son caros, sino que reflejan la calidad y el valor de los productos.
 
 ⚠️ Para un análisis más extenso y profundo, consulte el informe PDF en mi repositorio.
 
