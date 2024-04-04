@@ -6,7 +6,7 @@
 
 ## Doos Design price comparison
 
-In this project, we will use web scraping techniques to collect data from an online furniture stores: Lluesma Muebles (https://www.muebleslluesma.com/). This web store sells Doos Design's and other competitors products. We will use the data to analyze how DOOS Design's products and prices compare to those of its rivals. We will also create visualizations to display the results of the analysis and to provide insights for DOOS Design to improve its market position and increase its sales.
+In this project, I used web scraping techniques to collect data from an online furniture stores: Lluesma Muebles (https://www.muebleslluesma.com/). This web store sells Doos Design's and other competitors products. We will use the data to analyze how DOOS Design's products and prices compare to those of its competitors. I also created visualizations to display the results of the analysis and to provide insights for DOOS Design to improve its market position and increase its sales.
 
 Implemented measures: 
 
@@ -27,7 +27,7 @@ Conclusion: A price analysis of the main competitor was conducted and it reveale
 
 ## Doos Design comparación de precios
 
-En este proyecto, utilizaremos técnicas de raspado web para recopilar datos de una tienda de muebles en línea: Lluesma Muebles (https://www.muebleslluesma.com/). Esta tienda web vende productos de Doos Design y otros competidores. Usaremos los datos para analizar cómo los productos y precios de DOOS Design se comparan con los de sus rivales. También crearemos visualizaciones para mostrar los resultados del análisis y proporcionar información para que DOOS Design mejore su posición en el mercado y aumente sus ventas.
+En este proyecto, utilicé técnicas de web scraping para recopilar datos de una tienda de muebles en línea: Lluesma Muebles (https://www.muebleslluesma.com/). Esta tienda web vende productos de Doos Design y otros competidores. Usé los datos para analizar cómo los productos y precios de DOOS Design se comparan con los de sus competidores. También creé visualizaciones para mostrar los resultados del análisis y proporcionar información para que DOOS Design mejore su posición en el mercado y aumente sus ventas.
 
 Medidas aplicadas:
 
